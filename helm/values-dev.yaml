@@ -5,5 +5,5 @@ deployment:
 hpa:
   cpuUtilization: 15
 tgb:
-  arn: arn:aws:elasticloadbalancing:us-east-1:484907532817:targetgroup/roboshop-dev/e3a1a586157552d0
+  arn: arn:aws:elasticloadbalancing:us-east-1:805778285734:targetgroup/roboshop-dev/c7a76e34af37095c
   
